@@ -7,7 +7,7 @@ class Building:
         self.total += 1
 
 buildings = []
-while len(buildings) < 40:
+while len(buildings) < 41:
     new_building = Building()
     buildings.append(new_building)
 print(buildings)

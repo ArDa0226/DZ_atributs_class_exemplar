@@ -11,3 +11,4 @@ while len(buildings) < 41:
     new_building = Building()
     buildings.append(new_building)
 print(buildings)
+print(buildings[40])
